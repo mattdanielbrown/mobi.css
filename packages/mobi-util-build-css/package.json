@@ -23,7 +23,7 @@
         "gulp-sourcemaps": "^2.6.1",
         "postcss-cssnext": "^3.0.2",
         "postcss-import": "^10.0.0",
-        "postcss-pxtorem": "^4.0.0",
+        "postcss-pxtorem": "^6.1.0",
         "rimraf": "^2.6.1",
         "stylefmt": "^5.0.0"
     }
