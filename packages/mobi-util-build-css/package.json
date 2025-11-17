@@ -15,10 +15,10 @@
     "license": "MIT",
     "homepage": "http://getmobicss.com/docs/build-tools.html#mobi-util-build-css",
     "dependencies": {
-        "cssnano": "^4.0.0-rc.0",
+        "cssnano": "^5.0.0",
         "gulp": "^3.9.1",
         "gulp-insert": "^0.5.0",
-        "gulp-postcss": "^7.0.0",
+        "gulp-postcss": "^9.0.1",
         "gulp-rename": "^1.2.2",
         "gulp-sourcemaps": "^2.6.1",
         "postcss-cssnext": "^3.0.2",
